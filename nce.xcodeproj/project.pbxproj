@@ -13,6 +13,7 @@
 		487CD9182412C83A00A01D4B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 487CD9172412C83A00A01D4B /* Assets.xcassets */; };
 		487CD91B2412C83A00A01D4B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 487CD91A2412C83A00A01D4B /* Preview Assets.xcassets */; };
 		487CD91E2412C83A00A01D4B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 487CD91C2412C83A00A01D4B /* LaunchScreen.storyboard */; };
+		48C4F4A12415483900D604FD /* speech.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48C4F4A02415483900D604FD /* speech.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		487CD91A2412C83A00A01D4B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		487CD91D2412C83A00A01D4B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		487CD91F2412C83A00A01D4B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		48C4F4A02415483900D604FD /* speech.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = speech.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				487CD9112412C83100A01D4B /* AppDelegate.swift */,
 				487CD9132412C83100A01D4B /* SceneDelegate.swift */,
 				487CD9152412C83100A01D4B /* ContentView.swift */,
+				48C4F4A02415483900D604FD /* speech.swift */,
 				487CD9172412C83A00A01D4B /* Assets.xcassets */,
 				487CD91C2412C83A00A01D4B /* LaunchScreen.storyboard */,
 				487CD91F2412C83A00A01D4B /* Info.plist */,
@@ -149,6 +152,7 @@
 				487CD9122412C83100A01D4B /* AppDelegate.swift in Sources */,
 				487CD9142412C83100A01D4B /* SceneDelegate.swift in Sources */,
 				487CD9162412C83100A01D4B /* ContentView.swift in Sources */,
+				48C4F4A12415483900D604FD /* speech.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
